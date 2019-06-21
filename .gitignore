@@ -308,3 +308,5 @@ $RECYCLE.BIN/
 .idea/modules.xml
 .idea/misc.xml
 .idea/discord-chat-bot.iml
+*.xml
+package-lock.json
